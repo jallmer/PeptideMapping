@@ -1,0 +1,152 @@
+##gff-version 3
+>Scenario_0	genomic	region	16	51	.	+	.	ID=>Scenario_0.7 //in DB to ensure a positive result for Scenario_0; Name=R.VTMNSAVANGER.E
+>Scenario_1	genomic	region	1	9	.	+	.	ID=>Scenario_1.1 //match is expected at the beginning of RF 1; Name=-.DHR.S
+>Scenario_1	genomic	region	1	615	.	+	.	ID=>Scenario_5.3 //Non AAs in the query; long query with stars; Name=-.DHRSITLLTTHGSSPCIWYFRLGGMHAIALRDAGAGAPYVAVSVFDSCLILLFIAPTFNITGEHTY*SVLIN*CL*DIIITIECLHSHFPHRHHNKKFPPNPPSPASGHST*THLCQTPKTKNPNTSLTRFQILSFGGMHF*QSPPN*HIIFPSHSHTTNLINTTPAHPTQHTHTAANPIPRTNQTPKTPPTVYVAYLLKAIH*K.C
+>Scenario_1	genomic	region	1555	1563	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=E.TSR.N
+>Scenario_1	genomic	region	3892	4092	.	+	.	ID=>Scenario_1.3 //match is expected in the middle of RF 1; Name=R.TPFDLAEGESELVSGFNIEYAAGPFALFFIAEYTNIIIINTLTTTIFLGTTYDALSPELYTTYFVTK.T
+>Scenario_1	genomic	region	7759	7770	.	+	.	ID=>Scenario_1.4 //match is expected in the middle of RF 1; Name=R.SGNR.N
+>Scenario_1	genomic	region	734	742	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=N.HHD.Q
+>Scenario_1	genomic	region	2483	2494	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_6; Name=K.SYPA.C
+>Scenario_1	genomic	region	3836	3844	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=C.HHD.P
+>Scenario_1	genomic	region	5141	5149	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=Q.HHD.P
+>Scenario_1	genomic	region	6893	6928	.	+	.	ID=>Scenario_1.10 //match is expected in the middle of RF 2; Name=K.QYEMICCSALSP.R
+>Scenario_1	genomic	region	7238	7255	.	+	.	ID=>Scenario_1.9 //match is expected in the middle of RF 2; Name=R.CIHHMK.H
+>Scenario_1	genomic	region	9821	9829	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=R.TSR.H
+>Scenario_1	genomic	region	10514	10522	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=L.TSR.N
+>Scenario_1	genomic	region	15800	15835	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+>Scenario_1	genomic	region	15815	15844	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_1	genomic	region	15815	15859	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+>Scenario_1	genomic	region	15794	15865	.	+	.	ID=>Scenario_3.2 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.IGQVASVLYFTTILILIPTISLIE.N
+>Scenario_1	genomic	region	15815	15889	.	+	.	ID=>Scenario_3.1 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISLIENKILKWAC.P
+>Scenario_1	genomic	region	16559	16567	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=K.TSR.-
+>Scenario_1	genomic	region	3	35	.	+	.	ID=>Scenario_1.13 //match is expected at the beginning of RF 3; Name=-.SQVYHPINHSR.E
+>Scenario_1	genomic	region	504	515	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_6; Name=P.SYPA.H
+>Scenario_1	genomic	region	3003	3011	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=R.TSR.W
+>Scenario_1	genomic	region	3246	3254	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=S.PVI.A
+>Scenario_1	genomic	region	3873	3881	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=H.TSR.D
+>Scenario_1	genomic	region	4488	4496	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=Q.PVI.Y
+>Scenario_1	genomic	region	5355	5405	.	+	.	ID=>Scenario_1.15 //match is expected in the middle of RF 3; Name=R.LIYSTSITLLPISNNVK.I
+>Scenario_1	genomic	region	5592	5627	.	+	.	ID=>Scenario_1.16 //match is expected in the middle of RF 3; Name=R.TAKPHSASTERK.S
+>Scenario_1	genomic	region	16560	16568	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=R.HHD.-
+>Scenario_1	genomic	region	14956	14964	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=F.TSR.V
+>Scenario_1	genomic	region	9796	9816	.	-	.	ID=>Scenario_1.20 //match is expected in the middle of RF 4; Name=R.GSLWLQK.M
+>Scenario_1	genomic	region	9271	9288	.	-	.	ID=>Scenario_1.21 //match is expected in the middle of RF 4; Name=R.SLGGLR.G
+>Scenario_1	genomic	region	7990	7998	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=S.TSR.S
+>Scenario_1	genomic	region	304	315	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=S.GGGG.V
+>Scenario_1	genomic	region	1	9	.	-	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=R.PVI.-
+>Scenario_1	genomic	region	16548	16568	.	-	.	ID=>Scenario_1.24 //match is expected at the beginning of RF 5; Name=-.IVMSYLR.G
+>Scenario_1	genomic	region	9822	9830	.	-	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=N.DVK.S
+>Scenario_1	genomic	region	8538	8567	.	-	.	ID=>Scenario_1.25 //match is expected in the middle of RF 5; Name=R.IVGAMNEANR.F
+>Scenario_1	genomic	region	8322	8354	.	-	.	ID=>Scenario_1.26 //match is expected in the middle of RF 5; Name=K.EVLVLLIFNLK.G
+>Scenario_1	genomic	region	2985	2993	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=P.TSR.S
+>Scenario_1	genomic	region	177	185	.	-	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=S.PVI.L
+>Scenario_1	genomic	region	10697	10705	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=E.TSR.A
+>Scenario_1	genomic	region	10199	10222	.	-	.	ID=>Scenario_1.29 //match is expected in the middle of RF 6; Name=K.NFMEKGTR.A
+>Scenario_1	genomic	region	9884	9892	.	-	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=L.DVK.*
+>Scenario_1	genomic	region	9731	9748	.	-	.	ID=>Scenario_1.30 //match is expected in the middle of RF 6; Name=K.YSEACR.R
+>Scenario_1	genomic	region	9584	9592	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=G.TSR.G
+>Scenario_1	genomic	region	9380	9388	.	-	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=V.TSR.H
+>Scenario_2	genomic	region	1	9	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=-.DVK.P
+>Scenario_2	genomic	region	1	36	.	+	.	ID=>Scenario_2.1 //several matches in sequence and in DB overall; Name=-.DVKPSRCTYVLR.K
+>Scenario_2	genomic	region	19	36	.	+	.	ID=>Scenario_1.5 //match is expected at the end of RF 1; Name=R.CTYVLR.K
+>Scenario_2	genomic	region	37	117	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=R.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	40	120	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	43	123	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	46	126	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.D
+>Scenario_2	genomic	region	127	135	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=K.DVK.P
+>Scenario_2	genomic	region	127	162	.	+	.	ID=>Scenario_2.1 //several matches in sequence and in DB overall; Name=K.DVKPSRCTYVLR.-
+>Scenario_2	genomic	region	145	162	.	+	.	ID=>Scenario_1.5 //match is expected at the end of RF 1; Name=R.CTYVLR.-
+>Scenario_2	genomic	region	8	34	.	+	.	ID=>Scenario_2.2 //several matches in sequence and in DB overall; Name=*.NPLDALTYY.V
+>Scenario_2	genomic	region	38	118	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=V.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	41	121	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	44	124	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	47	127	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.T
+>Scenario_2	genomic	region	134	160	.	+	.	ID=>Scenario_2.2 //several matches in sequence and in DB overall; Name=*.NPLDALTYY.-
+>Scenario_2	genomic	region	39	119	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=*.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	42	122	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+>Scenario_2	genomic	region	45	125	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.R
+>Scenario_2	genomic	region	127	138	.	-	.	ID=>Scenario_1.23 //match is expected at the end of RF 4 for Scenario_3; Name=R.GFHV.F
+>Scenario_2	genomic	region	52	126	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=V.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	49	123	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	46	120	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	43	117	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	40	114	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	37	111	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.T
+>Scenario_2	genomic	region	1	12	.	-	.	ID=>Scenario_1.23 //match is expected at the end of RF 4 for Scenario_3; Name=R.GFHV.-
+>Scenario_2	genomic	region	51	125	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=S.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	48	122	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	45	119	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	42	116	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	39	113	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.L
+>Scenario_2	genomic	region	50	124	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=L.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	47	121	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	44	118	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	41	115	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+>Scenario_2	genomic	region	38	112	.	-	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.Y
+>Scenario_3	genomic	region	1	30	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILI.P
+>Scenario_3	genomic	region	1	45	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILIPTISL.I
+>Scenario_3	genomic	region	1	75	.	+	.	ID=>Scenario_3.1 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILIPTISLIENKILKWAC.I
+>Scenario_3	genomic	region	64	96	.	+	.	ID=>Scenario_3.7 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.KWACIGQVASV.L
+>Scenario_3	genomic	region	82	117	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+>Scenario_3	genomic	region	97	126	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_3	genomic	region	97	141	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.S
+>Scenario_3	genomic	region	196	231	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+>Scenario_3	genomic	region	211	240	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.G
+>Scenario_3	genomic	region	244	279	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+>Scenario_3	genomic	region	259	288	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_3	genomic	region	259	303	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+>Scenario_3	genomic	region	238	309	.	+	.	ID=>Scenario_3.2 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.IGQVASVLYFTTILILIPTISLIE.L
+>Scenario_3	genomic	region	331	360	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.LYFTTILILI.Q
+>Scenario_3	genomic	region	361	396	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.QVASVLYFTTIL.A
+>Scenario_3	genomic	region	355	402	.	+	.	ID=>Scenario_3.9 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LIQVASVLYFTTILAS.V
+>Scenario_3	genomic	region	382	420	.	+	.	ID=>Scenario_3.10 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=Y.FTTILASVLYFTT.I
+>Scenario_3	genomic	region	391	420	.	+	.	ID=>Scenario_3.8 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=T.ILASVLYFTT.I
+>Scenario_3	genomic	region	406	435	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_3	genomic	region	391	435	.	+	.	ID=>Scenario_3.6 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=T.ILASVLYFTTILILI.P
+>Scenario_3	genomic	region	406	450	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+>Scenario_3	genomic	region	460	489	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_3	genomic	region	460	504	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+>Scenario_3	genomic	region	529	558	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+>Scenario_3	genomic	region	529	573	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+>Scenario_3	genomic	region	589	618	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LYFTTILILI.P
+>Scenario_3	genomic	region	589	633	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LYFTTILILIPTISL.-
+>Scenario_3	genomic	region	586	633	.	+	.	ID=>Scenario_1.6 //match is expected at the end of RF 1 for Scenario_3; Name=K.ILYFTTILILIPTISL.-
+>Scenario_3	genomic	region	2	19	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=-.FISLLS.L
+>Scenario_3	genomic	region	2	52	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=-.FISLLSLSLSQLSVLSR.I
+>Scenario_3	genomic	region	98	115	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	149	166	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	212	229	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	260	277	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	311	328	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=S.FISLLS.F
+>Scenario_3	genomic	region	332	349	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	377	394	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	407	424	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	461	478	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	461	511	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=F.FISLLSLSLSQLSVLSR.I
+>Scenario_3	genomic	region	530	547	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+>Scenario_3	genomic	region	530	580	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=F.FISLLSLSLSQLSVLSR.I
+>Scenario_3	genomic	region	590	607	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=S.FISLLS.L
+>Scenario_3	genomic	region	587	631	.	+	.	ID=>Scenario_1.12 //match is expected at the end of RF 2 for Scenario_3; Name=R.SFISLLSLSLSQLSV.-
+>Scenario_3	genomic	region	3	50	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=-.LFHYYPYPYPNYQSYR.E
+>Scenario_3	genomic	region	3	53	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=-.LFHYYPYPYPNYQSYRE.*
+>Scenario_3	genomic	region	261	308	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.A
+>Scenario_3	genomic	region	462	509	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.E
+>Scenario_3	genomic	region	462	512	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=S.LFHYYPYPYPNYQSYRE.*
+>Scenario_3	genomic	region	531	578	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.E
+>Scenario_3	genomic	region	531	581	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=S.LFHYYPYPYPNYQSYRE.*
+>Scenario_4	genomic	region	25	45	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+>Scenario_4	genomic	region	13	54	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=P.ALLKMAKALLKMAK.A
+>Scenario_4	genomic	region	46	66	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+>Scenario_4	genomic	region	34	75	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=K.ALLKMAKALLKMAK.A
+>Scenario_4	genomic	region	67	87	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+>Scenario_4	genomic	region	55	96	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=K.ALLKMAKALLKMAK.P
+>Scenario_4	genomic	region	99	110	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=K.GGGG.G
+>Scenario_4	genomic	region	96	107	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=G.GGGG.F
+>Scenario_4	genomic	region	98	109	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=K.GGGG.V
+>Scenario_4	genomic	region	2	109	.	-	.	ID=>Scenario_1.27 //match is expected at the end of RF 5; Name=K.GGGGVSPFSAALSPFSAALSPFSAALSPFSAARGGG.-
+>Scenario_4	genomic	region	97	108	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=R.GGGG.F
+>Scenario_4	genomic	region	1	12	.	-	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=R.GGGG.-
+>Scenario_5	genomic	region	69	80	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_5; Name=R.SYPA.-
+>Scenario_5	genomic	region	49	81	.	-	.	ID=>Scenario_1.19 //match is expected at the beginning of RF 4 for Scenario_5; Name=-.MLGMISWLLNK.Y
+>Scenario_5	genomic	region	38	79	.	-	.	ID=>Scenario_1.28 //match is expected at the beginning of RF 6 for Scenario_5; Name=-.AGYDLMVAQQVLVK.P
+>Scenario_5	genomic	region	2	37	.	-	.	ID=>Scenario_1.32 //match is expected at the end of RF 6 for Scenario_5; Name=K.PIVGSCSSGLSS.-

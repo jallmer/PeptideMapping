@@ -1,0 +1,157 @@
+##gff-version 3
+Scenario_0-RF1	protein	region	6	17	.	+	.	ID=>Scenario_0.7 //in DB to ensure a positive result for Scenario_0; Name=R.VTMNSAVANGER.E
+Scenario_1-RF1	protein	region	1	3	.	+	.	ID=>Scenario_1.1 //match is expected at the beginning of RF 1; Name=-.DHR.S
+Scenario_1-RF1	protein	region	1	205	.	+	.	ID=>Scenario_5.3 //Non AAs in the query; long query with stars; Name=-.DHRSITLLTTHGSSPCIWYFRLGGMHAIALRDAGAGAPYVAVSVFDSCLILLFIAPTFNITGEHTY*SVLIN*CL*DIIITIECLHSHFPHRHHNKKFPPNPPSPASGHST*THLCQTPKTKNPNTSLTRFQILSFGGMHF*QSPPN*HIIFPSHSHTTNLINTTPAHPTQHTHTAANPIPRTNQTPKTPPTVYVAYLLKAIH*K.C
+Scenario_1-RF1	protein	region	519	521	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=E.TSR.N
+Scenario_1-RF1	protein	region	1298	1364	.	+	.	ID=>Scenario_1.3 //match is expected in the middle of RF 1; Name=R.TPFDLAEGESELVSGFNIEYAAGPFALFFIAEYTNIIIINTLTTTIFLGTTYDALSPELYTTYFVTK.T
+Scenario_1-RF1	protein	region	2587	2590	.	+	.	ID=>Scenario_1.4 //match is expected in the middle of RF 1; Name=R.SGNR.N
+Scenario_1-RF2	protein	region	245	247	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=N.HHD.Q
+Scenario_1-RF2	protein	region	828	831	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_6; Name=K.SYPA.C
+Scenario_1-RF2	protein	region	1279	1281	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=C.HHD.P
+Scenario_1-RF2	protein	region	1714	1716	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=Q.HHD.P
+Scenario_1-RF2	protein	region	2298	2309	.	+	.	ID=>Scenario_1.10 //match is expected in the middle of RF 2; Name=K.QYEMICCSALSP.R
+Scenario_1-RF2	protein	region	2413	2418	.	+	.	ID=>Scenario_1.9 //match is expected in the middle of RF 2; Name=R.CIHHMK.H
+Scenario_1-RF2	protein	region	3274	3276	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=R.TSR.H
+Scenario_1-RF2	protein	region	3505	3507	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=L.TSR.N
+Scenario_1-RF2	protein	region	5267	5278	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+Scenario_1-RF2	protein	region	5272	5281	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_1-RF2	protein	region	5272	5286	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+Scenario_1-RF2	protein	region	5265	5288	.	+	.	ID=>Scenario_3.2 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.IGQVASVLYFTTILILIPTISLIE.N
+Scenario_1-RF2	protein	region	5272	5296	.	+	.	ID=>Scenario_3.1 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISLIENKILKWAC.P
+Scenario_1-RF2	protein	region	5520	5522	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=K.TSR.-
+Scenario_1-RF3	protein	region	1	11	.	+	.	ID=>Scenario_1.13 //match is expected at the beginning of RF 3; Name=-.SQVYHPINHSR.E
+Scenario_1-RF3	protein	region	168	171	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_6; Name=P.SYPA.H
+Scenario_1-RF3	protein	region	1001	1003	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=R.TSR.W
+Scenario_1-RF3	protein	region	1082	1084	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=S.PVI.A
+Scenario_1-RF3	protein	region	1291	1293	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=H.TSR.D
+Scenario_1-RF3	protein	region	1496	1498	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=Q.PVI.Y
+Scenario_1-RF3	protein	region	1785	1801	.	+	.	ID=>Scenario_1.15 //match is expected in the middle of RF 3; Name=R.LIYSTSITLLPISNNVK.I
+Scenario_1-RF3	protein	region	1864	1875	.	+	.	ID=>Scenario_1.16 //match is expected in the middle of RF 3; Name=R.TAKPHSASTERK.S
+Scenario_1-RF3	protein	region	5520	5522	.	+	.	ID=>Scenario_1.17 //match is expected at the end of RF 3; Name=R.HHD.-
+Scenario_1-RF4	protein	region	536	538	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=F.TSR.V
+Scenario_1-RF4	protein	region	2252	2258	.	+	.	ID=>Scenario_1.20 //match is expected in the middle of RF 4; Name=R.GSLWLQK.M
+Scenario_1-RF4	protein	region	2428	2433	.	+	.	ID=>Scenario_1.21 //match is expected in the middle of RF 4; Name=R.SLGGLR.G
+Scenario_1-RF4	protein	region	2858	2860	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=S.TSR.S
+Scenario_1-RF4	protein	region	5419	5422	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=S.GGGG.V
+Scenario_1-RF4	protein	region	5521	5523	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=R.PVI.-
+Scenario_1-RF5	protein	region	1	7	.	+	.	ID=>Scenario_1.24 //match is expected at the beginning of RF 5; Name=-.IVMSYLR.G
+Scenario_1-RF5	protein	region	2247	2249	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=N.DVK.S
+Scenario_1-RF5	protein	region	2668	2677	.	+	.	ID=>Scenario_1.25 //match is expected in the middle of RF 5; Name=R.IVGAMNEANR.F
+Scenario_1-RF5	protein	region	2739	2749	.	+	.	ID=>Scenario_1.26 //match is expected in the middle of RF 5; Name=K.EVLVLLIFNLK.G
+Scenario_1-RF5	protein	region	4526	4528	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=P.TSR.S
+Scenario_1-RF5	protein	region	5462	5464	.	+	.	ID=>Scenario_1.22 //match is expected at the end of RF 4; Name=S.PVI.L
+Scenario_1-RF6	protein	region	1955	1957	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=E.TSR.A
+Scenario_1-RF6	protein	region	2116	2123	.	+	.	ID=>Scenario_1.29 //match is expected in the middle of RF 6; Name=K.NFMEKGTR.A
+Scenario_1-RF6	protein	region	2226	2228	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=L.DVK.*
+Scenario_1-RF6	protein	region	2274	2279	.	+	.	ID=>Scenario_1.30 //match is expected in the middle of RF 6; Name=K.YSEACR.R
+Scenario_1-RF6	protein	region	2326	2328	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=G.TSR.G
+Scenario_1-RF6	protein	region	2394	2396	.	+	.	ID=>Scenario_1.11 //match is expected at the end of RF 2; Name=V.TSR.H
+Scenario_2-RF1	protein	region	1	3	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=-.DVK.P
+Scenario_2-RF1	protein	region	1	12	.	+	.	ID=>Scenario_2.1 //several matches in sequence and in DB overall; Name=-.DVKPSRCTYVLR.K
+Scenario_2-RF1	protein	region	7	12	.	+	.	ID=>Scenario_1.5 //match is expected at the end of RF 1; Name=R.CTYVLR.K
+Scenario_2-RF1	protein	region	13	39	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=R.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF1	protein	region	14	40	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF1	protein	region	15	41	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF1	protein	region	16	42	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.D
+Scenario_2-RF1	protein	region	43	45	.	+	.	ID=>Scenario_1.2 //match is expected at the beginning of RF 1 for Scenario_2; Name=K.DVK.P
+Scenario_2-RF1	protein	region	43	54	.	+	.	ID=>Scenario_2.1 //several matches in sequence and in DB overall; Name=K.DVKPSRCTYVLR.-
+Scenario_2-RF1	protein	region	49	54	.	+	.	ID=>Scenario_1.5 //match is expected at the end of RF 1; Name=R.CTYVLR.-
+Scenario_2-RF2	protein	region	3	11	.	+	.	ID=>Scenario_2.2 //several matches in sequence and in DB overall; Name=*.NPLDALTYY.V
+Scenario_2-RF2	protein	region	13	39	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=V.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF2	protein	region	14	40	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF2	protein	region	15	41	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF2	protein	region	16	42	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.T
+Scenario_2-RF2	protein	region	45	53	.	+	.	ID=>Scenario_2.2 //several matches in sequence and in DB overall; Name=*.NPLDALTYY.-
+Scenario_2-RF3	protein	region	15	41	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=*.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF3	protein	region	16	42	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.K
+Scenario_2-RF3	protein	region	17	43	.	+	.	ID=>Scenario_4.2 //four overlapping matches in RF 2 and 4 in RF 3; Name=K.KKKKKKKKKKKKKKKKKKKKKKKKKKK.R
+Scenario_2-RF4	protein	region	9	12	.	+	.	ID=>Scenario_1.23 //match is expected at the end of RF 4 for Scenario_3; Name=R.GFHV.F
+Scenario_2-RF4	protein	region	13	37	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=V.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF4	protein	region	14	38	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF4	protein	region	15	39	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF4	protein	region	16	40	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF4	protein	region	17	41	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF4	protein	region	18	42	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.T
+Scenario_2-RF4	protein	region	51	54	.	+	.	ID=>Scenario_1.23 //match is expected at the end of RF 4 for Scenario_3; Name=R.GFHV.-
+Scenario_2-RF5	protein	region	13	37	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=S.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF5	protein	region	14	38	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF5	protein	region	15	39	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF5	protein	region	16	40	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF5	protein	region	17	41	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.L
+Scenario_2-RF6	protein	region	13	37	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=L.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF6	protein	region	14	38	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF6	protein	region	15	39	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF6	protein	region	16	40	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.F
+Scenario_2-RF6	protein	region	17	41	.	+	.	ID=>Scenario_4.3 //four overlapping matches in RF 4 and 4 in RF 5; Name=F.FFFFFFFFFFFFFFFFFFFFFFFFF.Y
+Scenario_3-RF1	protein	region	1	10	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILI.P
+Scenario_3-RF1	protein	region	1	15	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILIPTISL.I
+Scenario_3-RF1	protein	region	1	25	.	+	.	ID=>Scenario_3.1 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=-.LYFTTILILIPTISLIENKILKWAC.I
+Scenario_3-RF1	protein	region	22	32	.	+	.	ID=>Scenario_3.7 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.KWACIGQVASV.L
+Scenario_3-RF1	protein	region	28	39	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+Scenario_3-RF1	protein	region	33	42	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_3-RF1	protein	region	33	47	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.S
+Scenario_3-RF1	protein	region	66	77	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+Scenario_3-RF1	protein	region	71	80	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.G
+Scenario_3-RF1	protein	region	82	93	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=G.QVASVLYFTTIL.I
+Scenario_3-RF1	protein	region	87	96	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_3-RF1	protein	region	87	101	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+Scenario_3-RF1	protein	region	80	103	.	+	.	ID=>Scenario_3.2 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.IGQVASVLYFTTILILIPTISLIE.L
+Scenario_3-RF1	protein	region	111	120	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=L.LYFTTILILI.Q
+Scenario_3-RF1	protein	region	121	132	.	+	.	ID=>Scenario_3.3 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.QVASVLYFTTIL.A
+Scenario_3-RF1	protein	region	119	134	.	+	.	ID=>Scenario_3.9 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LIQVASVLYFTTILAS.V
+Scenario_3-RF1	protein	region	128	140	.	+	.	ID=>Scenario_3.10 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=Y.FTTILASVLYFTT.I
+Scenario_3-RF1	protein	region	131	140	.	+	.	ID=>Scenario_3.8 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=T.ILASVLYFTT.I
+Scenario_3-RF1	protein	region	136	145	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_3-RF1	protein	region	131	145	.	+	.	ID=>Scenario_3.6 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=T.ILASVLYFTTILILI.P
+Scenario_3-RF1	protein	region	136	150	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+Scenario_3-RF1	protein	region	154	163	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_3-RF1	protein	region	154	168	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+Scenario_3-RF1	protein	region	177	186	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILI.P
+Scenario_3-RF1	protein	region	177	191	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=V.LYFTTILILIPTISL.I
+Scenario_3-RF1	protein	region	197	206	.	+	.	ID=>Scenario_3.4 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LYFTTILILI.P
+Scenario_3-RF1	protein	region	197	211	.	+	.	ID=>Scenario_3.5 //shared prefix, infix, or suffix with one of the other queries in scenario 3; Name=I.LYFTTILILIPTISL.-
+Scenario_3-RF1	protein	region	196	211	.	+	.	ID=>Scenario_1.6 //match is expected at the end of RF 1 for Scenario_3; Name=K.ILYFTTILILIPTISL.-
+Scenario_3-RF2	protein	region	1	6	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=-.FISLLS.L
+Scenario_3-RF2	protein	region	1	17	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=-.FISLLSLSLSQLSVLSR.I
+Scenario_3-RF2	protein	region	33	38	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	50	55	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	71	76	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	87	92	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	104	109	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=S.FISLLS.F
+Scenario_3-RF2	protein	region	111	116	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	126	131	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	136	141	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	154	159	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	154	170	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=F.FISLLSLSLSQLSVLSR.I
+Scenario_3-RF2	protein	region	177	182	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=F.FISLLS.L
+Scenario_3-RF2	protein	region	177	193	.	+	.	ID=>Scenario_1.7 //match is expected at the beginning of RF 2 for Scenario_3; Name=F.FISLLSLSLSQLSVLSR.I
+Scenario_3-RF2	protein	region	197	202	.	+	.	ID=>Scenario_2.3 //several matches in sequence and in DB overall; Name=S.FISLLS.L
+Scenario_3-RF2	protein	region	196	210	.	+	.	ID=>Scenario_1.12 //match is expected at the end of RF 2 for Scenario_3; Name=R.SFISLLSLSLSQLSV.-
+Scenario_3-RF3	protein	region	1	16	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=-.LFHYYPYPYPNYQSYR.E
+Scenario_3-RF3	protein	region	1	17	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=-.LFHYYPYPYPNYQSYRE.*
+Scenario_3-RF3	protein	region	87	102	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.A
+Scenario_3-RF3	protein	region	154	169	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.E
+Scenario_3-RF3	protein	region	154	170	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=S.LFHYYPYPYPNYQSYRE.*
+Scenario_3-RF3	protein	region	177	192	.	+	.	ID=>Scenario_1.14 //match is expected at the beginning of RF 3 for Scenario_3; Name=S.LFHYYPYPYPNYQSYR.E
+Scenario_3-RF3	protein	region	177	193	.	+	.	ID=>Scenario_2.4 //several matches in sequence and in DB overall; Name=S.LFHYYPYPYPNYQSYRE.*
+Scenario_4-RF1	protein	region	9	15	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+Scenario_4-RF1	protein	region	5	18	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=P.ALLKMAKALLKMAK.A
+Scenario_4-RF1	protein	region	16	22	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+Scenario_4-RF1	protein	region	12	25	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=K.ALLKMAKALLKMAK.A
+Scenario_4-RF1	protein	region	23	29	.	+	.	ID=>Scenario_2.5 //several matches in sequence and in DB overall; Name=K.MAKALLK.M
+Scenario_4-RF1	protein	region	19	32	.	+	.	ID=>Scenario_4.1 //end to end two matches in RF1 Scenario_4; Name=K.ALLKMAKALLKMAK.P
+Scenario_4-RF4	protein	region	11	14	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=K.GGGG.G
+Scenario_4-RF4	protein	region	12	15	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=G.GGGG.F
+Scenario_4-RF5	protein	region	11	14	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=K.GGGG.V
+Scenario_4-RF5	protein	region	11	46	.	+	.	ID=>Scenario_1.27 //match is expected at the end of RF 5; Name=K.GGGGVSPFSAALSPFSAALSPFSAALSPFSAARGGG.-
+Scenario_4-RF6	protein	region	11	14	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=R.GGGG.F
+Scenario_4-RF6	protein	region	43	46	.	+	.	ID=>Scenario_1.31 //match is expected at the end of RF 6 for Scenario_4; Name=R.GGGG.-
+Scenario_5-RF3	protein	region	23	26	.	+	.	ID=>Scenario_1.18 //match is expected at the end of RF 3 for Scenario_5; Name=R.SYPA.-
+Scenario_5-RF4	protein	region	1	11	.	+	.	ID=>Scenario_1.19 //match is expected at the beginning of RF 4 for Scenario_5; Name=-.MLGMISWLLNK.Y
+Scenario_5-RF6	protein	region	1	14	.	+	.	ID=>Scenario_1.28 //match is expected at the beginning of RF 6 for Scenario_5; Name=-.AGYDLMVAQQVLVK.P
+Scenario_5-RF6	protein	region	15	26	.	+	.	ID=>Scenario_1.32 //match is expected at the end of RF 6 for Scenario_5; Name=K.PIVGSCSSGLSS.-
+Scenario_6 //some non AA characters	protein	region	1	10	.	+	.	ID=>Scenario_5.2 //Non AAs in the query; Name=-.JENSALLMER.F
+Scenario_6 //some non AA characters	protein	region	63	74	.	+	.	ID=>Scenario_5.7 //Non AAs in the query; Name=S.CANBE-MAPPED.B
+Scenario_6 //some non AA characters	protein	region	139	147	.	+	.	ID=>Scenario_5.6 //Non AAs in the query; Name=F.THESEARCH..
+Scenario_6 //some non AA characters	protein	region	153	164	.	+	.	ID=>Scenario_5.4 //Mixed case; Name=t.AboutCapital.i
+Scenario_6 //some non AA characters	protein	region	159	170	.	+	.	ID=>Scenario_5.5 //Non AAs in the query and lower case; Name=C.apitalizaion.?
